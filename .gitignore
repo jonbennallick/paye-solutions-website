@@ -1,0 +1,28 @@
+# Netlify
+.netlify/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs & deps
+*.log
+node_modules/
+
+# Claude Code config
+.claude/
+
+# ---- Project reference material at ROOT only (not shipped) ----
+/Screenshots/
+/*.jpg
+/*.webp
+/*.docx
+/*.md
+/*.zip
+/Website Files/*.zip
