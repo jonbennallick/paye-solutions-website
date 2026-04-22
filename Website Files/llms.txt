@@ -32,7 +32,8 @@
 ## Pricing (all net of VAT)
 - 1-4 employees: Weekly GBP 20, Fortnightly GBP 25, Four-weekly GBP 30, Monthly GBP 30
 - 5-10 employees: Weekly GBP 25, Fortnightly GBP 30, Four-weekly GBP 40, Monthly GBP 40
-- 11+ employees: GBP 3 per extra payslip (added to the base rate)
+- 11-49 employees: GBP 3 per extra payslip (added to the base rate)
+- 50+ employees: custom quote (contact for pricing)
 - Setup fee: GBP 75-100 (one-off, depending on complexity)
 - Year-end processing and P60s: GBP 2 per employee (minimum charge GBP 35)
 
