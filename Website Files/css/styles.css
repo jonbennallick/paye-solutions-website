@@ -964,6 +964,14 @@ h1, h2, h3 {
   margin-top: 0.75rem;
 }
 
+.footer__dove {
+  display: block;
+  width: 60px;
+  height: auto;
+  margin-top: 1rem;
+  opacity: 0.85;
+}
+
 .footer h4 {
   color: var(--color-text-light);
   font-size: 1rem;
